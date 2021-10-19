@@ -17,14 +17,8 @@ Check this out!
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wafazahida17/)
-[![Medium Badge](https://img.shields.io/badge/-@wafazahida17-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@wafazahida17)](https://medium.com/@wafazahida17)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wafazahida17)
 
-
-<!-- <p align="center">
-   <code>Visitor count</code>
-   <img src="https://profile-counter.glitch.me/wafa17/count.svg" />
-  </p>
- -->
 [![wafa's github stats](https://github-readme-stats.vercel.app/api?username=wafa17&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800)](https://github.com/wafa17)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wafa17&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800)](https://github.com/wafa17)
 
