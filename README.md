@@ -17,6 +17,7 @@ Check this out!
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wafazahida17/)
+[![Medium Badge](https://img.shields.io/badge/-@wafazahida17-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@wafazahida17)](https://medium.com/@wafazahida17)
 
 
 <!-- <p align="center">
