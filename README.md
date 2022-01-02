@@ -1,4 +1,4 @@
-### Hi there 👋 I am Wafa, Learning Designer Officer at Dibimbing.id
+### Hi there 👋 I am Wafa
 
 
 <!-- **wafa17/wafa17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
