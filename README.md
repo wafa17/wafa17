@@ -5,11 +5,11 @@
 
 Check this out!
 
-- 🔭 I’m currently working on developing a syllabus for Full Stack Web Development and Data Science Bootcamp
-- 🌱 I’m currently learning about UI/UX Design, creating an impactful syllabus for beginner and also learning about full-stack web dev in advanced
+- 🔭 I’m currently working as UI/UX Designer at VISKA!
+- 🌱 Apart from working as a UI/UX Designer, I sometimes work on Web Design Projects using the Website Builder. Like Webflow, Wordpress, etc
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about UI/UX Design and Front-End Web Dev
+- 💬 Ask me about UI/UX Design
 - 📫 How to reach me: wafazahida17@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
